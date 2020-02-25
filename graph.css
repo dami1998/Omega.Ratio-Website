@@ -15,7 +15,7 @@
 }
 #Web_1920___3 {
 	position: absolute;
-	width: 1920px;
+	width: 2300px;
 	height: 1080px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
@@ -43,7 +43,7 @@
 
 a:link, a:visited{
 	position: absolute;
-	left: 1730px;
+	left: 2000px;
 	top: 30px;
 	text-align: center;
 	font-family: Segoe UI;

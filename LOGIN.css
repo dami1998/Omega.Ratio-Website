@@ -15,10 +15,10 @@
 }
 #Web_19 {
 	position: absolute;
-	width: 1920px;
+	width: 2300px;
 	height: 1080px;
 	background: linear-gradient(180deg, rgba(0,140,237,1) 0%, rgba(0,74,125,1) 100%, rgba(0,70,119,1) 100%);
-	overflow: hidden;
+	overflow: visible;
 	--web-view-name: Web 19;
 	--web-view-id: Web_19;
 	--web-scale-on-resize: true;
@@ -29,12 +29,12 @@
 	overflow: visible;
 	width: 635px;
 	height: 542px;
-	left: 643px;
+	left: 750px;
 	top: 269px;
 }
 #LOGIN {
 	position: absolute;
-	left: 886px;
+	left: 975px;
 	top: 296px;
 	overflow: visible;
 	width: 150px;
@@ -65,7 +65,7 @@
 	position: absolute;
 	width: 527px;
 	height: 3px;
-	left: 697.5px;
+	left: 775.5px;
 	top: 471.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -74,13 +74,13 @@
 	position: absolute;
 	width: 527px;
 	height: 3px;
-	left: 696.5px;
+	left: 775.5px;
 	top: 580.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Username {
 	position: absolute;
-	left: 698px;
+	left: 775px;
 	top: 425px;
 	overflow: visible;
 	width:527px;
@@ -94,7 +94,7 @@
 }
 #Password {
 	position: absolute;
-	left: 698px;
+	left: 775px;
 	top: 534px;
 	overflow: visible;
 	width: 527px;
@@ -111,7 +111,7 @@
 	overflow: visible;
 	width: 268px;
 	height: 67px;
-	left: 826px;
+	left: 910px;
 	top: 643px;
 	white-space: nowrap;
 	text-align: center;
