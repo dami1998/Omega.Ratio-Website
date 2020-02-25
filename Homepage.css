@@ -1,0 +1,321 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 3;
+	--web-view-id: Web_1920___3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___3 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 3;
+	--web-view-id: Web_1920___3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_6 {
+	position: absolute;
+	width: 1920px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: auto;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+}
+
+a:link, a:visited{
+	position: absolute;
+	left: 1730px;
+	top: 30px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: white;
+	text-decoration: none;	
+}
+a:hover{
+	background-color: rgba(255,144,0,1);
+	border-radius: 25px;
+	width: 125px;
+	height: 50px;
+}
+
+#Group_4 {
+	position: absolute;
+	width: 652px;
+	height: 956px;
+	left: 33px;
+	top: 124px;
+	overflow: visible;
+}
+.Rectangle_4_n {
+	position: absolute;
+	overflow: visible;
+	width: 652px;
+	height: 956px;
+	left: 0px;
+	top: 0px;
+}
+#Group_5 {
+	position: absolute;
+	width: 554px;
+	height: 540px;
+	left: 52px;
+	top: 292px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+}
+#Gender {
+	position: absolute;
+	left: 14px;
+	top: 5px;
+	overflow: visible;
+	width: 500px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Group_1_s {
+	position: absolute;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 87px;
+	overflow: visible;
+}
+.Rectangle_5_t {
+	position: absolute;
+	overflow: visible;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+}
+#Weight {
+	position: absolute;
+	left: 14px;
+	top: 5px;
+	overflow: visible;
+	width: 500px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Group_1_v {
+	position: absolute;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 174px;
+	overflow: visible;
+}
+.Rectangle_5_w {
+	position: absolute;
+	overflow: visible;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+}
+#Age {
+	position: absolute;
+	left: 14px;
+	top: 5px;
+	overflow: visible;
+	width: 500px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Group_1_y {
+	position: absolute;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 261px;
+	overflow: visible;
+}
+.Rectangle_5_z {
+	position: absolute;
+	overflow: visible;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+}
+#Illness {
+	position: absolute;
+	left: 14px;
+	top: 5px;
+	overflow: visible;
+	width: 500px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Group_1_ {
+	position: absolute;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 348px;
+	overflow: visible;
+}
+.Rectangle_5_ {
+	position: absolute;
+	overflow: visible;
+	width: 554px;
+	height: 67px;
+	left: 0px;
+	top: 0px;
+}
+#Period {
+	position: absolute;
+	left: 14px;
+	top: 5px;
+	overflow: visible;
+	width: 500px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 201px;
+	height: 76px;
+	left: 0px;
+	top: 464px;
+	overflow: visible;
+}
+#ENTER {
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	font-family: Segoe UI;
+	text-align: center;
+	color: rgba(255,255,255,1);
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	background-color: rgba(255,144,0,1);
+	border-radius: 25px;
+
+}
+
+#GET_DATA {
+	position: absolute;
+	left: 52px;
+	top: 169px;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Group_8 {
+	position: absolute;
+	width: 995px;
+	height: 200px;
+	left: 795px;
+	top: 440px;
+	overflow: visible;
+}
+#Group_7 {
+	position: absolute;
+	width: 995px;
+	height: 200px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+
+#OMEGA {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 536px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(0,135,229,1);
+}
+#_RATIO {
+	position: absolute;
+	left: 555px;
+	top: 0px;
+	overflow: visible;
+	width: 461px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,144,0,1);
+}
